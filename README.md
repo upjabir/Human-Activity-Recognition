@@ -10,3 +10,6 @@ Given a new datapoint we have to predict the Activity <br />
 ## Data :
 Train data : https://drive.google.com/file/d/1CfefNM4UdcYE2YXRreu_08b9m2lC1QUt/view?usp=sharing  <br />
 Test data : https://drive.google.com/file/d/1bS2-RJs7GI5TlmCEHl4hLaOsCdMUttfF/view?usp=sharing  <br />
+
+## Inference :
+![alt text](https://github.com/upjabir/Human-Activity-Recognition/blob/main/images/inference.png?raw=true)
